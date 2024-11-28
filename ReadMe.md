@@ -37,10 +37,10 @@ docker run -p 8080:8080 toronto-time-api
 ## Screenshot
 
 ### Database 
-!(images/Database SS.png)
+![](images/Database SS.png)
 
 ### Docker 
-!(images/Docker Running.png)
+![](images/Docker Running.png)
 
 ### Application Running 
-!(images/Time Details.png)
+![](images/Time Details.png)
